@@ -1,4 +1,4 @@
-# Co-Designed HMI for Autonomous Research: A Case Study on Flexibility, Integration, and Collaboration
+# Beyond the Dashboard: A Collaborative UI Framework for Autonomous Systems Engineering and Design Research
 
 ## Abstract
 
